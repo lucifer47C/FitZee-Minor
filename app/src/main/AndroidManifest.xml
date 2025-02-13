@@ -14,7 +14,7 @@
         android:label="FitZee"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.BeastFitness">
+        android:theme="@style/Theme.fitzee">
         <activity
             android:name=".CalActivity"
             android:exported="false" />
