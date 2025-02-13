@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "376618957679",
-    "firebase_url": "https://fitzee-ce58b-default-rtdb.asia-southeast1.firebasedatabase.app",
-    "project_id": "fitzee-ce58b",
-    "storage_bucket": "fitzee-ce58b.appspot.com"
+    "project_number": "",
+    "firebase_url": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:376618957679:android:10578312e260322ac2069a",
+        "mobilesdk_app_id": "",
         "android_client_info": {
-          "package_name": "com.zephgv.mad.fitzee"
+          "package_name": ""
         }
       },
       "oauth_client": [
         {
-          "client_id": "376618957679-uk8501khgqhs6ctf4a91ic0sau9n4dkr.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.zephgv.mad.fitzee",
-            "certificate_hash": "e17c6a578e8426539e90e18f2a77979a524800f6"
+            "package_name": "",
+            "certificate_hash": ""
           }
         },
         {
-          "client_id": "376618957679-3mnthc5jbrb74m44b8njb2ivsicj6nmv.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBTm1q2QyNCli0u32MuFqhKO7Jh4n7s7mY"
+          "current_key": ""
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "376618957679-3mnthc5jbrb74m44b8njb2ivsicj6nmv.apps.googleusercontent.com",
+              "client_id": "",
               "client_type": 3
             }
           ]
